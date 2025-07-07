@@ -3,5 +3,5 @@ This repo contains some of the main tasks I have done while doing an internship 
 
 Task 1 Title: Simple Food Billing Program
 Task 2 Title: Restaurant Service Chatbot using CustomTkinter (Rule-Based)
-Task 3 Title: Signup Form with SQLite Integration
+Task 3 Title: Signup Form with SQLite Integration using Flask
 Task 4 Title: AI Image Generator using Stable Diffusion
